@@ -1,6 +1,6 @@
 1.Because someone told us that the JavaScript author was too arrogant and liked to make money, we decided to make the cracking of the JavaScript code public.
 
-2.Someone asked me why I think so? Because many people have told us that JavaScript authors love to raise money and change their names every few months, and continue to raise money after changing their names, which has made many people dissatisfied with their methods.
+2.Someone asked me why I think so? Because many people have told us that JavaScript authors love to raise money and change the code name every few months, and then continue to raise money after changing the name, which has made many people dissatisfied with their methods.
 
 3.How to use it? Put NoveXare Craked in the script file directory of the UI and it can be used in the game.
 
